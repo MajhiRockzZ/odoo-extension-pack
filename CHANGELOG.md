@@ -2,6 +2,10 @@
 
 All notable changes to the "odoo-extension-pack" extension pack will be documented in this file.
 
+## [1.0.2]
+
+- Added icon for extension pack
+
 ## [1.0.1]
 
 - Fix: Source for Visual Studio IntelliCode Extension
