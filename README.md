@@ -52,6 +52,14 @@ This extension pack includes the following extensions:
     - Align Columns
     - Run Queries
 
+## Questions & Issues
+
+Each extension mentioned above is a separate open-source project and has its own repository. To make things easier, simply 🙋‍♂️ [open a issue in this repository](https://github.com/MajhiRockzZ/odoo-extension-pack/issues). The new issue will be triaged and redirected.
+
+## Want to see your extension added?
+
+Open a PR and I'd be happy to take a look.
+
 ## Team
 
 This extension pack is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/MajhiRockzZ/odoo-extension-pack/graphs/contributors).
@@ -60,16 +68,10 @@ This extension pack is maintained by the following person(s) and a bunch of [awe
 :---: |
 [Sumesh Majhi](https://github.com/MajhiRockzZ) |
 
-### Contact / Social Media
-
-#### *Get the latest News about Web Development, Open Source, JavaScript & React*
-
-[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://www.twitter.com/MajhiRockzZ)
-[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/sumesh.majhi.5)
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/MajhiRockzZ)
-
 ## License
 
 This work by [Sumesh Majhi](https://www.twitter.com/MajhiRockzZ) is licensed under a  [MIT License](https://github.com/MajhiRockzZ/odoo-extension-pack/blob/master/LICENSE)
 
 MIT © [MajhiRockzZ](https://www.twitter.com/MajhiRockzZ)
+
+**Happy Coding!**

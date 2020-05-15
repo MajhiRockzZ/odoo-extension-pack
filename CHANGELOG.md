@@ -2,6 +2,11 @@
 
 All notable changes to the "odoo-extension-pack" extension pack will be documented in this file.
 
+## [1.0.3]
+
+- Updated README.md file
+- Added new gallery color
+
 ## [1.0.2]
 
 - Added icon for extension pack

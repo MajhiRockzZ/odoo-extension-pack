@@ -2,13 +2,17 @@
     "name": "odoo-extension-pack",
     "displayName": "Odoo Extension Pack",
     "description": "Essential extensions for Odoo developers",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "MajhiRockzZ",
     "repository": {
         "type": "git",
         "url": "https://github.com/MajhiRockzZ/odoo-extension-pack"
     },
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#0a1725",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
