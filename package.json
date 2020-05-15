@@ -1,0 +1,15 @@
+{
+    "name": "odoo-extension-pack",
+    "displayName": "Odoo Extension Pack",
+    "description": "Essential extensions for Odoo developers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
