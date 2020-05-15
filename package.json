@@ -16,7 +16,7 @@
     ],
     "extensionPack": [
         "ms-python.python",
-        "VisualStudioExptTeam.VSIntelliCode",
+        "VisualStudioExptTeam.vscodeintellicode",
         "jigar-patel.OdooSnippets",
         "DotJoshJohnson.xml",
         "mechatroner.rainbow-csv"

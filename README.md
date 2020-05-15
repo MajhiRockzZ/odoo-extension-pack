@@ -15,7 +15,7 @@ This extension pack includes the following extensions:
 | Extension | stats |
 |-----------|-------|
 | Python    | ![](https://vsmarketplacebadge.apphb.com/installs-short/ms-python.python.svg) ![](https://vsmarketplacebadge.apphb.com/rating-short/ms-python.python.svg) |
-| Visual Studio IntelliCode | ![](https://vsmarketplacebadge.apphb.com/installs-short/VisualStudioExptTeam.VSIntelliCode.svg) ![](https://vsmarketplacebadge.apphb.com/rating-short/VisualStudioExptTeam.VSIntelliCode.svg) |
+| Visual Studio IntelliCode | ![](https://vsmarketplacebadge.apphb.com/installs-short/VisualStudioExptTeam.vscodeintellicode.svg) ![](https://vsmarketplacebadge.apphb.com/rating-short/VisualStudioExptTeam.vscodeintellicode.svg) |
 | Odoo Snippets | ![](https://vsmarketplacebadge.apphb.com/installs-short/jigar-patel.OdooSnippets.svg) ![](https://vsmarketplacebadge.apphb.com/rating-short/jigar-patel.OdooSnippets.svg) |
 | XML Tools | ![](https://vsmarketplacebadge.apphb.com/installs-short/DotJoshJohnson.xml.svg) ![](https://vsmarketplacebadge.apphb.com/rating-short/DotJoshJohnson.xml.svg) |
 | Rainbow CSV | ![](https://vsmarketplacebadge.apphb.com/installs-short/mechatroner.rainbow-csv.svg) ![](https://vsmarketplacebadge.apphb.com/rating-short/mechatroner.rainbow-csv.svg) |
